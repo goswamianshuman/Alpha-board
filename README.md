@@ -1,14 +1,18 @@
-# Create React App
+# Convin Frontend Assignment
 
-This directory is a brief example of a [Create React App](https://github.com/facebook/create-react-app) site that can be deployed to Vercel with zero configuration.
+This is the assignment related to frontend development internship at convin
 
-## Deploy Your Own
+### tasks completed: 
+#### 1. User can create, delete and edit a card - ( create card ✔ )
+#### 2. The card must contain name and a video/mp3 link ✔
+#### 3. Each card can be created under a bucket (eg : Entertainment Videos, Education Videos, Etc ) ✔
+#### 4. The user has the flexibility to Name this bucket according to his/her choice. ✔
+#### 5. User can move a card from one bucket to an other bucket. ✔
+#### 6. On clicking on the card a modal with an iframe should open which starts playing the video ✔
+#### 7. User can delete a single card or multiple card under a single bucket at once ❌
+#### 8. There should be a separate tab called history which lists the mp3/mp4 links that you have played i.e the card name, the link and the time it was played ❌
 
-Deploy your own Create React App project with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/create-react-app&template=create-react-app)
-
-_Live Example: https://create-react-template.vercel.app/_
 
 ## Available Scripts
 
